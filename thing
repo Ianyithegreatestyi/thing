@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about:blank</title>
+    <link href="bootstrap-main/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-image: url("source_code/Hack.jpeg");
+        }
+    </style>
+    <link href="source_code/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1 style="background-color: black; color: white;">Welcome to your codename bypass HTML session. In this session, you may enjoy our finest selection. Offline games, download links, etc., while bypassing lightspeed. Please enjoy</h1>
+    <h2 style="background-color: black; color: white;"><b>Games</b></h2>
+    <button type="button" class="btn btn-primary" onclick="window.location.href='source_code/star-battle-master/index.html';">Star battle arcade (requires auto translator)</button>
+    <button  type="button" class="btn btn-primary" onclick="window.location.href='source_code/Minesweeper-master/index.html';">Minesweeper</button>
+    <button type="button" class="btn btn-primary"  onclick="window.location.href='source_code/Gams-main/Gams.html';">List of games functioning with disguise</button>
+    <br>
+    <h1 style="background-color: black; color: white;"><b>Emergency bypass, only in case of emergency:</b></h1>
+    <button type="button" class="btn btn-primary"  onclick="window.location.href='source_code/aboutblankembedder-main/embedder.html';">Special embedder to bypass lightspeed with any URL</button>
+    <button type="button" class="btn btn-primary"  onclick="window.location.href='https://562d3d68-9702-4287-9a66-fb80a4fe845f.vercel.app/browser/';">Google web browser emulator (Has a VPN; use only if you can't access websites with the embedder)</button>
+    <br>
+    <h1 style="background-color: black; color: white;">Help center</h1>
+    <br>
+    <button type="button" class="btn btn-secondary"  onclick="window.location.href='source_code/help.html';">Getting started</button>
+    <br>
+    <br>
+    <p>
+      <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
+        Copyright info
+      </button>
+    </p>
+    <div style="min-height: 120px;">
+      <div class="collapse collapse-horizontal" id="collapseWidthExample">
+        <div class="card card-body" style="width: 300px;">
+            Copyright © Ishaan. This copy of Bypass HTML for bypassing lightspeed cannot be redistributed or resold. Beta 3.1, Codename bypass HTML. Developer and contributor-only preview. Licensed to Ian, Jayson (7th grade), and Mathai, as well as Ishaan (developer). If you do not have permitted access and no license, you will no longer have access to future versions with more tools to use. Thank you for your contribution to this project.
+        </div>
+      </div>
+    </div>
+    <script src="bootstrap-main/dist/js/bootstrap.min.js"></script>
+      <script src="source_code/script.js"></script>
+</body>
+</html>
